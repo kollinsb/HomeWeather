@@ -1,2 +1,2 @@
 # HomeWeather
-Weather at 111 Marty Lane, White Bluff, TN 37187 - GPS Coordinates: 
+Weather at 242 Nearby Ln, White Bluff, TN 37187 - GPS Coordinates: 
